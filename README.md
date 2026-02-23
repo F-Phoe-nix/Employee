@@ -12,7 +12,7 @@ Employment suitability prediction using decision tree
 Run on your terminal
 
   ```bash
-  git clone [https://github.com/F-Phoe-nix/Employee.git](https://github.com/F-Phoe-nix/Employee.git)
+  git clone https://github.com/F-Phoe-nix/Employee.git
   ```
 
   ```bash
