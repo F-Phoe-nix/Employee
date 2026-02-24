@@ -15,9 +15,6 @@ Run on your terminal
   git clone https://github.com/F-Phoe-nix/Employee.git
   ```
 
-  ```bash
-  cd employee
-  ```
 Open the `employee.ipynb` in your favourite editor
 
 ## Note
